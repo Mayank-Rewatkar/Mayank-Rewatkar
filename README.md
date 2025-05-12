@@ -17,10 +17,10 @@
 
 - 🧪 **QA Automation Tester** with a keen eye for detail and efficiency.
 - 💻 Skilled in writing robust, scalable test cases using tools like **Selenium, TestNG, Postman, Rest Assured**.
-- 🤖 Experienced in **UI WEB Automation,API Testing,Smoke,Sanity,Regression Testing**.
-- 🛠️ Actively using **Java, Python, Git, Jenkins, Maven, and JIRA** in daily QA processes.
+- 🤖 Experienced in **UI WEB Automation,API Testing, Smoke, Sanity, Regression Testing**.
+- 🛠️ Actively using **Java, Git, Jenkins, Maven** in daily QA processes.
 - 🔄 Advocate for **CI/CD** & integrating automated testing in agile pipelines.
-- 🧠 Always learning: focused on expanding DevOps and performance testing skills.
+- 🧠 Always learning: focused on expanding Testing Tools and testing skills.
 
 ---
 
