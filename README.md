@@ -12,7 +12,7 @@
 </p>
 
 ---
-
+<p align="center">
 ## 🧑‍💼 About Me
 
 - 🧪 **QA Automation Tester** with a keen eye for detail and efficiency.
@@ -29,28 +29,22 @@
 <table>
   <tr>
     <td><img alt="Java" height="28px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/></td>
-    <td><img alt="Python" height="28px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"/></td>
-    <td><img alt="Selenium" height="28px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-selenium-a-suite-of-tools-for-automated-web-testing-logo-color-tal-revivo.png"/></td>
+    <td><img alt="Selenium" height="28px" src="https://static-00.iconduck.com/assets.00/selenium-icon-512x496-obrnvg2v.png"/></td>
     <td><img alt="Postman" height="28px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/></td>
     <td><img alt="Git" height="28px" src="https://img.icons8.com/color/48/000000/git.png"/></td>
     <td><img alt="Jenkins" height="28px" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"/></td>
     <td><img alt="Maven" height="28px" src="https://maven.apache.org/images/maven-logo-black-on-white.png"/></td>
-    <td><img alt="Cucumber" height="28px" src="https://static-00.iconduck.com/assets.00/cucumber-icon-512x512-1yp1m2xb.png"/></td>
-    <td><img alt="JIRA" height="28px" src="https://img.icons8.com/color/48/000000/jira.png"/></td>
+    <td><img alt="Rest Assured API" height="28px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThZdA0kXhfi43Vi_BkVdOG3FbdnTkUpxXTIA&s"/></td>
+    
   </tr>
 </table>
 
----
+## ✨ Repos:
 
-## 📂 Featured Projects
+![Readme Card]()
 
-Here are some key automation and QA-focused repositories:
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Mayank-Rewatkar&repo=Automation-Framework&theme=default)](https://github.com/Mayank-Rewatkar/Automation-Framework)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Mayank-Rewatkar&repo=API-Testing-Postman&theme=default)](https://github.com/Mayank-Rewatkar/API-Testing-Postman)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Mayank-Rewatkar&repo=Playwright-E2E-Automation&theme=default)](https://github.com/Mayank-Rewatkar/Playwright-E2E-Automation)
-
-> 🔗 *More projects on [my GitHub](https://github.com/Mayank-Rewatkar?tab=repositories)*
+> 🔗 *More projects on [my GitHub]()*
 
 ---
 
