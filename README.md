@@ -1,15 +1,14 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" alt="banner"/></a>
+<a href="#"><img width="100%" height="auto" src="https://miro.medium.com/v2/resize:fit:800/1*j-adM1lOwkqP64ICF-OOZg.jpeg"/></a>
 
 <h3 align="center">Hey there, I'm <a href="https://github.com/Mayank-Rewatkar">Mayank Rewatkar</a> 👋</h3>
 
 <p align="center">
-🔎 Passionate QA Automation Engineer | 🧪 Test Automation | 💻 Bug Hunter | ☁️ Lifelong Learner
+🔎 Passionate QA Test Automation Engineer | Test Automation | 💻 Bug Tracking | ☁️ Lifelong Learner
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mayank-rewatkar/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://twitter.com/yourprofile"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mayank-rewatkar-a16181181?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://mailto:mayankrewatkar96@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
@@ -17,8 +16,8 @@
 ## 🧑‍💼 About Me
 
 - 🧪 **QA Automation Tester** with a keen eye for detail and efficiency.
-- 💻 Skilled in writing robust, scalable test cases using tools like **Selenium, Postman, Rest Assured, TestNG, Cucumber, Playwright**.
-- 🤖 Experienced in **API Testing, UI Automation, and Regression Testing**.
+- 💻 Skilled in writing robust, scalable test cases using tools like **Selenium, TestNG, Postman, Rest Assured**.
+- 🤖 Experienced in **UI WEB Automation,API Testing,Smoke,Sanity,Regression Testing**.
 - 🛠️ Actively using **Java, Python, Git, Jenkins, Maven, and JIRA** in daily QA processes.
 - 🔄 Advocate for **CI/CD** & integrating automated testing in agile pipelines.
 - 🧠 Always learning: focused on expanding DevOps and performance testing skills.
