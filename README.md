@@ -39,7 +39,12 @@
   </tr>
 </table>
 
----
+## ✨ Repos:
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mayank-Rewatkar&repo=SeleniumTestNgFramework)
+
+
+
 
 ## ⚡ Fun Fact
 
