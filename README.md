@@ -39,14 +39,14 @@
   </tr>
 </table>
 
+<br>
+
 ## ✨ Repos:
 
-![Readme Card]()
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vijay-Kumavat&repo=Gecianbot)
 
 
-> 🔗 *More projects on [my GitHub]()*
-
----
+<br>
 
 ## 📈 GitHub Stats
 
