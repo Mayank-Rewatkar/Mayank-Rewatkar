@@ -39,14 +39,6 @@
   </tr>
 </table>
 
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mayank-Rewatkar&show_icons=true&count_private=true&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank-Rewatkar&layout=compact&theme=default" />
-</p>
-
 ---
 
 ## ⚡ Fun Fact
