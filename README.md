@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://miro.medium.com/v2/resize:fit:800/1*j-adM1lOwkqP64ICF-OOZg.jpeg"/></a>
+<a href="#"><img width="100%" height=""/></a>
 
 <h3 align="center">Hey there, I'm <a href="https://github.com/Mayank-Rewatkar">Mayank Rewatkar</a> 👋</h3>
 
