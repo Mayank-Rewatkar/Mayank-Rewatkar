@@ -39,14 +39,6 @@
   </tr>
 </table>
 
-<br>
-
-## ✨ Repos:
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vijay-Kumavat&repo=Gecianbot)
-
-
-<br>
 
 ## 📈 GitHub Stats
 
