@@ -16,7 +16,7 @@
 ## 🧑‍💼 About Me
 
 - 🧪 **QA Automation Tester** with a keen eye for detail and efficiency.
-- 💻 Skilled in writing robust, scalable test cases using tools like **Selenium, TestNG, Cucumber, Postman, Rest Assured**.
+- 💻 Skilled in Designing robust and scalable testing Framework using tools like **Selenium, TestNG, Cucumber, Postman, Rest Assured**.
 - 🤖 Experienced in **UI WEB Automation,API Testing, Smoke, Sanity, Regression Testing**.
 - 🛠️ Actively using **Java, Git, Jenkins, Maven** in daily QA processes.
 - 🔄 Integrating automated testing using **CI/CD** in agile pipelines.
