@@ -19,7 +19,7 @@
 - 💻 Skilled in writing robust, scalable test cases using tools like **Selenium, TestNG, Cucumber, Postman, Rest Assured**.
 - 🤖 Experienced in **UI WEB Automation,API Testing, Smoke, Sanity, Regression Testing**.
 - 🛠️ Actively using **Java, Git, Jenkins, Maven** in daily QA processes.
-- 🔄 Advocate for **CI/CD** & integrating automated testing in agile pipelines.
+- 🔄 Integrating automated testing using **CI/CD** in agile pipelines.
 - 🧠 Always learning: focused on expanding Testing Tools and testing skills.
 
 ---
@@ -43,7 +43,7 @@
 
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mayank-Rewatkar&repo=SeleniumTestNgFramework)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mayank-Rewatkar&repo=/Selenium-Cucumber-TestNg-FrameworkDesigne)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mayank-Rewatkar&repo=Selenium-Cucumber-TestNg-FrameworkDesigne)
 
 
 
