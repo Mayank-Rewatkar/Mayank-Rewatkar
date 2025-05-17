@@ -41,8 +41,9 @@
 
 ## ✨ Repos:
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mayank-Rewatkar&repo=SeleniumTestNgFramework)
 
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mayank-Rewatkar&repo=SeleniumTestNgFramework)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Mayank-Rewatkar&repo=/Selenium-Cucumber-TestNg-FrameworkDesigne)
 
 
 
